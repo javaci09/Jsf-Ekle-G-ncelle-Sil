@@ -1,2 +1,2 @@
-# Jsf-Ekle-G-ncelle-Sil
+# Jsf-Crud
 Jsf Framework ile Ekleme Güncelleme ve Silme İşlemlerini Yapıyoruz
